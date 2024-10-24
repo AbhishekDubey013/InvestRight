@@ -11,13 +11,9 @@ I) Homepage Repository
 
 This repository contains the code for the InvestRight homepage, which provides an overview of our platform, and introductory information.
 
-    Link: https://github.com/meetpaladiya44/InvestRight
-
 II) Farcaster Frames Repository
 
 This repository includes the main farcaster frames creation code using Minimal & lightweight framework named "frog" 
-
-    Link: https://github.com/meetpaladiya44/Frog-setup
 
 # 💡 Why InvestRight ?
 • Our project aims to create a decentralized platform for crypto price predictions, leveraging blockchain technology to ensure transparency, trust, and engagement. The platform will combine social networking, decentralized finance, and community validation to provide accurate and insightful crypto market predictions
